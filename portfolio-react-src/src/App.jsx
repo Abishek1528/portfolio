@@ -6,7 +6,10 @@ import Skills from './components/Skills';
 import Projects from './components/Projects';
 import Achievements from './components/Achievements';
 import Contact from './components/Contact';
-import './styles/global.css';
+import './styles/global.css'
+
+
+
 
 const App = () => {
   useEffect(() => {
